@@ -4,7 +4,7 @@ Android 13用
 Update:2025/04/19
 </br>
 
-<img height="300" src="https://www.zebra.com/content/dam/zebra_dam/global/zcom-web-production/web-production-photography/web002/tc78-zq220-proof-of-delivery-printing-receipt-courier-photography-application-5x4-3600.jpg.imgw.3600.3600.jpg"> <img height="300" src="https://www.zebra.com/content/dam/zebra_dam/global/zcom-web-production/web-production-photography/web002/zq220-police-handing-ticket-photography-application-5x4-3600.jpg.imgw.3600.3600.jpg"> <img height="300" src="https://www.zebra.com/content/dam/zebra_dam/global/zcom-web-production/web-production-photography/web002/tc78-zq220-transportation-logistics-photography-application-5x4-3600.jpg.imgw.3600.3600.jpg">
+<img height="200" src="https://www.zebra.com/content/dam/zebra_dam/global/zcom-web-production/web-production-photography/web002/tc78-zq220-proof-of-delivery-printing-receipt-courier-photography-application-5x4-3600.jpg.imgw.3600.3600.jpg"> <img height="200" src="https://www.zebra.com/content/dam/zebra_dam/global/zcom-web-production/web-production-photography/web002/zq220-police-handing-ticket-photography-application-5x4-3600.jpg.imgw.3600.3600.jpg"> <img height="200" src="https://www.zebra.com/content/dam/zebra_dam/global/zcom-web-production/web-production-photography/web002/tc78-zq220-transportation-logistics-photography-application-5x4-3600.jpg.imgw.3600.3600.jpg">
 
 ### 概要
 - Multiplatform SDKを用いて、ZQ220+から印刷するためのサンプルコード。
